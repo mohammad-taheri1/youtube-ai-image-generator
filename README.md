@@ -1,5 +1,7 @@
 # Ai Image Generator
 
+YouTube Tutorial: https://www.youtube.com/watch?v=s98CGI78ASc
+
 ## Solution Architecture
 
 <img src="./img1.png" alt="img1">
