@@ -1,4 +1,5 @@
 import React from "react";
+import Main from "./components/main/Main";
 import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
          <Navbar />
 
          {/* Main */}
+         <Main />
       </div>
    );
 };
